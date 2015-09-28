@@ -4,5 +4,5 @@ Simple OOPS based login and registration script in php and mysql with exceptiona
 
 Support: php V5.5+
 
-Tutorial & Demo: 
+Tutorial & Demo: http://www.iamrohit.in/simple-oops-based-login-and-registration-script-in-php-and-mysql/
 
